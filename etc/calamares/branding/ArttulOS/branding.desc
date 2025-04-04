@@ -1,0 +1,31 @@
+---
+componentName:  AcreetionOS
+
+welcomeStyleCalamares:   false
+
+welcomeExpandingLogo:   true
+
+windowExpanding:    noexpand
+windowSize: 1280px,720px
+windowPlacement: center
+
+sidebar: qml,top
+
+strings:
+    productName:         ArttulOS
+    shortProductName:    ArttulOS
+    version:             ArttulOS
+    shortVersion:        ArttulOS
+    versionedName:       ArttulOS
+    shortVersionedName:  ArttulOS
+    bootloaderEntryName: ArttulOS
+
+images:
+    productLogo:         "arttulos.png"
+    productIcon:         "arttulos.png"
+    productWelcome:      "arttulos.png"
+
+style:
+   SidebarBackground:    "#31313a"
+   SidebarText:          "#FFFFFF"
+   SidebarBackgroundCurrent: "#ebe0c9"
